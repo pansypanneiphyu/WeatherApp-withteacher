@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+.logo {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+  color: blueviolet;
+}
+
+.hosting {
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
